@@ -6,6 +6,8 @@ Pin Snooze on the taskbar, so you can turn off the monitor before leaving the co
 
 Snooze 是一键关闭显示器的免安装便携软件。
 
+![DownloadFromGithubByPoto](https://user-images.githubusercontent.com/59009389/165435448-b17c2ff5-c6f1-4e81-bb8d-c1e5301fc613.png)
+
 用法
 
 运行 Snooze，关闭显示器；
@@ -13,4 +15,4 @@ Snooze 是一键关闭显示器的免安装便携软件。
 
 您可以把软件固定在任务栏上，这样您短暂离开电脑前就可以点击 Snooze 关闭显示器。
 
-Develop By Poto
+Developed by Poto
