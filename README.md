@@ -8,6 +8,8 @@ Snooze 是一键关闭显示器的免安装便携软件。
 
 ![DownloadFromGithubByPoto](https://user-images.githubusercontent.com/59009389/165435448-b17c2ff5-c6f1-4e81-bb8d-c1e5301fc613.png)
 
+![Download from Github](<a href="https://github.com/isPoto/Snooze/releases" target="blank"><img border="0" src="https://user-images.githubusercontent.com/59009389/165435448-b17c2ff5-c6f1-4e81-bb8d-c1e5301fc613.png" alt="Download from Github" title="Download from Github"></a>)
+
 用法
 
 运行 Snooze，关闭显示器；
