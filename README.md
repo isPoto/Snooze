@@ -21,3 +21,14 @@ Pin Snooze on the taskbar, so you can turn off the monitor before leaving the co
 
 
 <a href="https://ko-fi.com/s/1b1d72f1f7" target="blank"><img border="0" src="https://user-images.githubusercontent.com/59009389/210224231-4ae8813c-844c-4ce5-ad7e-fd079a893a4a.png" alt="Buy it" title="Buy it"></a>
+
+
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('ispoto', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Support me',
+    'floating-chat.donateButton.background-color': '#00b9fe',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>
